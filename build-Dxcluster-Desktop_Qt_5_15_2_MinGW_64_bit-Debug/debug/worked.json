@@ -1,0 +1,36 @@
+{
+  "worked":
+  [
+    {"entity":414,   "name":"DRC",                   "band":"40M","mode":"DATA","comment":"R"},
+    {"entity":414,   "name":"DRC",                   "band":"30M","mode":"DATA","comment":"R"},
+    {"entity":414,   "name":"DRC",                   "band":"20M","mode":"DATA","comment":"R"},
+    {"entity":414,   "name":"DRC",                   "band":"17M","mode":"DATA","comment":"R"},
+    {"entity":414,   "name":"DRC",                   "band":"15M","mode":"DATA","comment":"R"},
+    {"entity":414,   "name":"DRC",                   "band":"12M","mode":"DATA","comment":"R"},
+    {"entity":414,   "name":"DRC",                   "band":"10M","mode":"DATA","comment":"R"},
+
+    {"entity":222,   "name":"Faroe I.",              "band":"80M","mode":"DATA","comment":"C"},
+    {"entity":167,   "name":"Market",                "band":"40M","mode":"DATA","comment":"C"},
+    {"entity":141,   "name":"Falkland I.",           "band":"30M","mode":"DATA","comment":"C"},
+    {"entity":519,   "name":"Saba&S. Eustatius",     "band":"30M","mode":"DATA","comment":"C"},
+    {"entity":511,   "name":"Timor Leste",           "band":"30M","mode":"DATA","comment":"C"},
+    {"entity":47,    "name":"Easter I.",             "band":"20M","mode":"DATA","comment":"C"},
+    {"entity":53,    "name":"Ethiopia",              "band":"20M","mode":"DATA","comment":"C"},
+    {"entity":321,   "name":"Hong Kong",             "band":"20M","mode":"DATA","comment":"C"},
+    {"entity":169,   "name":"Mayotte I.",            "band":"20M","mode":"DATA","comment":"C"},
+    {"entity":519,   "name":"Saba&S. Eustatius",     "band":"20M","mode":"DATA","comment":"C"},
+    {"entity":511,   "name":"Timor Leste",           "band":"20M","mode":"DATA","comment":"C"},
+    {"entity":513,   "name":"Ducie I.",              "band":"17M","mode":"DATA","comment":"C"},
+    {"entity":193,   "name":"Gabon",                 "band":"17M","mode":"DATA","comment":"C"},
+    {"entity":5,     "name":"Aland I.",              "band":"15M","mode":"DATA","comment":"C"},
+    {"entity":519,   "name":"Saba&S. Eustatius",     "band":"15M","mode":"DATA","comment":"C"},
+    {"entity":522,   "name":"Kosovo",                "band":"12M","mode":"DATA","comment":"C"},
+    {"entity":511,   "name":"Timor Leste",           "band":"12M","mode":"DATA","comment":"C"},
+    {"entity":135,   "name":"Kyrgyztan",             "band":"6M", "mode":"DATA","comment":"C"},
+    {"entity":522,   "name":"Kosovo",                "band":"6M", "mode":"DATA","comment":"C"},
+
+    {"entity":436,   "name":"Libya",                 "band":"80M","mode":"DATA","comment":"V"},
+    {"entity":211,   "name":"Sable I.",              "band":"2M", "mode":"DATA","comment":"V"},
+    {"entity":41,    "name":"Crozet",                "band":"17M","mode":"DATA","comment":"V"}
+  ]
+}
