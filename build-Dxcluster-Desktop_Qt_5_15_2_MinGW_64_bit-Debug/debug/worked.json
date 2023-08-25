@@ -1,6 +1,8 @@
 {
   "worked":
   [
+    {"entity":440,   "name":"Malawi",                "band":"10M","mode":"DATA","comment":"W"},
+
     {"entity":414,   "name":"DRC",                   "band":"40M","mode":"DATA","comment":"R"},
     {"entity":414,   "name":"DRC",                   "band":"30M","mode":"DATA","comment":"R"},
     {"entity":414,   "name":"DRC",                   "band":"20M","mode":"DATA","comment":"R"},
