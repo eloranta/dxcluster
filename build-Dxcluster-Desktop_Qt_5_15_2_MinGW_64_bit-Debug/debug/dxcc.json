@@ -49,7 +49,7 @@
       "notes": "NOT Guantanamo",
       "outgoingQslService": false,
       "prefix": "KG4BOB",
-      "prefixRegex": "^KG4BOB|KG4OJT$",
+      "prefixRegex": "^KG4BOB|KG4OJT|KG4USN",
       "thirdPartyTraffic": true,
       "validEnd": "",
       "validStart": ""
