@@ -177,12 +177,6 @@ public Q_SLOTS:
         spot.spotter.GetCountryInfo(array);
         spot.status = 0;
 
-        if(Band(spot.freq) == "6M")
-        {
-            qDebug() << message << "spot is on 6 meters";
-            //return;
-        }
-
         if(spot.dx.dxcc == "0")
         {
             qDebug() << message << "spot is pirate";
