@@ -72,7 +72,7 @@
       "notes": "",
       "outgoingQslService": true,
       "prefix": "D0",
-      "prefixRegex": "^D[0-1}[A-Z0-9/]*$",
+      "prefixRegex": "^D[0-1][A-Z0-9/]*$",
       "thirdPartyTraffic": true,
       "validEnd": "",
       "validStart": ""
