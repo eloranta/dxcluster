@@ -3595,34 +3595,11 @@
       "itu": [
         62
       ],
-      "name": "South Cook Islands",
+      "name": "N. or S. Cook Islands",
       "notes": "",
       "outgoingQslService": false,
       "prefix": "E5",
       "prefixRegex": "^E51[A-Z0-9/]*$",
-      "thirdPartyTraffic": false,
-      "validEnd": "",
-      "validStart": ""
-    },
-    {
-      "continent": [
-        "OC"
-      ],
-      "countryCode": "CK",
-      "cq": [
-        32
-      ],
-      "deleted": false,
-      "entityCode": 191,
-      "flag": "🇨🇰",
-      "itu": [
-        62
-      ],
-      "name": "North Cook Islands",
-      "notes": "",
-      "outgoingQslService": false,
-      "prefix": "E5",
-      "prefixRegex": "^E5[A-Z0-9/]*$",
       "thirdPartyTraffic": false,
       "validEnd": "",
       "validStart": ""
