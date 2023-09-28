@@ -18,6 +18,7 @@ MainWindow::MainWindow(QWidget *parent)
 
     ui->qsoView->setColumnHidden(0, true);
     ui->qsoView->setColumnHidden(3, true);
+    ui->qsoView->setColumnHidden(6, true);
     ui->qsoView->setColumnHidden(8, true);
     ui->qsoView->setColumnHidden(10, true);
     ui->qsoView->setColumnHidden(11, true);

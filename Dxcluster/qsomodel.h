@@ -23,7 +23,7 @@ class QsoModel : public QSqlRelationalTableModel
             {
                 return QBrush(Qt::green);
             }
-            else if (index.column() == 6 && status == 3)
+            else if (index.column() == 7 && status == 3)
             {
                 return QBrush(Qt::green);
             }
