@@ -1,6 +1,8 @@
 {
   "worked":
   [
+    {"entity":293,   "name":"Viet Nam",              "band":"12M","mode":"DATA","comment":"W"},
+    {"entity":162,   "name":"New Caledonia",         "band":"30M","mode":"DATA","comment":"W"},
     {"entity":289,   "name":"UN HQ",                 "band":"40M","mode":"DATA","comment":"W"},
     {"entity":453,   "name":"Reunion I.",            "band":"10M","mode":"DATA","comment":"W"},
     {"entity":84,    "name":"Martinique",            "band":"15M","mode":"DATA","comment":"W"},
