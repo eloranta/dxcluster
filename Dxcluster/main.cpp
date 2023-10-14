@@ -313,6 +313,12 @@ void Task::ReadDxccJson()
     //qDebug() << text;
 
     QJsonDocument doc = QJsonDocument::fromJson(text.toUtf8());
+    if (doc.isNull())
+    {
+        qDebug() << "Error in parsing worked.json";
+        return;
+    }
+
     QJsonObject object = doc.object();
     QJsonValue value = object.value("dxcc");
     array = value.toArray();
