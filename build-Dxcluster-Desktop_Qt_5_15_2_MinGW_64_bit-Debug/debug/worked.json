@@ -1,6 +1,12 @@
 {
   "worked":
   [
+    {"entity":53,    "name":"Ethiopia",              "band":"10M","mode":"DATA","comment":"W"},
+    {"entity":259,   "name":"Svalbard",              "band":"15M","mode":"DATA","comment":"W"},
+    {"entity":191,   "name":"N. Cook I.",            "band":"15M","mode":"DATA","comment":"W"},
+    {"entity":515,   "name":"Swains I.",             "band":"40M","mode":"DATA","comment":"W"},
+    {"entity":515,   "name":"Swains I.",             "band":"20M","mode":"DATA","comment":"W"},
+    {"entity":515,   "name":"Swains I.",             "band":"17M","mode":"DATA","comment":"W"},
     {"entity":95,    "name":"Dominica",              "band":"12M","mode":"DATA","comment":"W"},
     {"entity":190,   "name":"Samoa",                 "band":"40M","mode":"DATA","comment":"W"},
     {"entity":64,    "name":"Bermuda",               "band":"40M","mode":"DATA","comment":"W"},
@@ -8,10 +14,12 @@
     {"entity":64,    "name":"Bermuda",               "band":"17M","mode":"DATA","comment":"W"},
     {"entity":64,    "name":"Bermuda",               "band":"15M","mode":"DATA","comment":"W"},
     {"entity":64,    "name":"Bermuda",               "band":"10M","mode":"DATA","comment":"W"},
-    {"entity":274,   "name":"Tristan da Cunha",      "band":"30M","mode":"DATA","comment":"W"},
     {"entity":274,   "name":"Tristan da Cunha",      "band":"40M","mode":"DATA","comment":"W"},
+    {"entity":274,   "name":"Tristan da Cunha",      "band":"30M","mode":"DATA","comment":"W"},
+    {"entity":274,   "name":"Tristan da Cunha",      "band":"17M","mode":"DATA","comment":"W"},
     {"entity":274,   "name":"Tristan da Cunha",      "band":"15M","mode":"DATA","comment":"W"},
     {"entity":274,   "name":"Tristan da Cunha",      "band":"12M","mode":"DATA","comment":"W"},
+    {"entity":274,   "name":"Tristan da Cunha",      "band":"10M","mode":"DATA","comment":"W"},
     {"entity":282,   "name":"Tuvalu",                "band":"40M","mode":"DATA","comment":"W"},
     {"entity":282,   "name":"Tuvalu",                "band":"20M","mode":"DATA","comment":"W"},
     {"entity":22,    "name":"Palau",                 "band":"17M","mode":"DATA","comment":"W"},
