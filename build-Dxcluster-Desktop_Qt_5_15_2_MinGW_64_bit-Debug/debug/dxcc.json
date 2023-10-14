@@ -11,6 +11,32 @@
         5
       ],
       "deleted": false,
+      "entityCode": 515,
+      "flag": "🇺🇸",
+      "itu": [
+        6,
+        7,
+        8
+      ],
+      "name": "Swains I.",
+      "notes": "",
+      "outgoingQslService": false,
+      "prefix": "W8S",
+      "prefixRegex": "^W8S$",
+      "thirdPartyTraffic": true,
+      "validEnd": "",
+      "validStart": ""
+    },    {
+      "continent": [
+        "AS"
+      ],
+      "countryCode": "US",
+      "cq": [
+        3,
+        4,
+        5
+      ],
+      "deleted": false,
       "entityCode": 247,
       "flag": "🇺🇸",
       "itu": [
@@ -23,33 +49,6 @@
       "outgoingQslService": false,
       "prefix": "DX0NE",
       "prefixRegex": "^DX0NE$",
-      "thirdPartyTraffic": true,
-      "validEnd": "",
-      "validStart": ""
-    },
-    {
-      "continent": [
-        "NA"
-      ],
-      "countryCode": "US",
-      "cq": [
-        3,
-        4,
-        5
-      ],
-      "deleted": false,
-      "entityCode": 291,
-      "flag": "🇺🇸",
-      "itu": [
-        6,
-        7,
-        8
-      ],
-      "name": "USA",
-      "notes": "NOT Guantanamo",
-      "outgoingQslService": false,
-      "prefix": "KG4BOB",
-      "prefixRegex": "^KG4BOB|KG4OJT|KG4USN",
       "thirdPartyTraffic": true,
       "validEnd": "",
       "validStart": ""
@@ -1979,7 +1978,7 @@
       "notes": "",
       "outgoingQslService": false,
       "prefix": "KG4",
-      "prefixRegex": "^KG4[A-Z0-9/]*$",
+      "prefixRegex": "^KG4[A-Z][A-Z]$",
       "thirdPartyTraffic": true,
       "validEnd": "",
       "validStart": ""
