@@ -144,4 +144,5 @@ void MainWindow::UpdateFilter()
 void MainWindow::clearClicked()
 {
     qsoModel.clear();
+    qsoModel.select();
 }
