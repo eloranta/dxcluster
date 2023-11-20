@@ -1,6 +1,13 @@
 {
   "worked":
   [
+    {"entity":185,   "name":"Solomon I.",            "band":"15M","mode":"DATA","comment":"W"},
+    {"entity":273,   "name":"Trindade I.",           "band":"12M","mode":"DATA","comment":"W"},
+    {"entity":35,    "name":"Christmas I.",          "band":"15M","mode":"DATA","comment":"W"},
+    {"entity":34,    "name":"Chatham I.",            "band":"30M","mode":"DATA","comment":"W"},
+    {"entity":34,    "name":"Chatham I.",            "band":"17M","mode":"DATA","comment":"W"},
+    {"entity":34,    "name":"Chatham I.",            "band":"12M","mode":"DATA","comment":"W"},
+
     {"entity":492,   "name":"Yemen",                 "band":"30M","mode":"DATA","comment":"W"},
     {"entity":492,   "name":"Yemen",                 "band":"15M","mode":"DATA","comment":"W"},
     {"entity":492,   "name":"Yemen",                 "band":"10M","mode":"DATA","comment":"W"},
@@ -71,12 +78,9 @@
     {"entity":274,   "name":"Tristan da Cunha",      "band":"15M","mode":"DATA","comment":"W"},
     {"entity":274,   "name":"Tristan da Cunha",      "band":"12M","mode":"DATA","comment":"W"},
     {"entity":274,   "name":"Tristan da Cunha",      "band":"10M","mode":"DATA","comment":"W"},
-    {"entity":34,    "name":"Chatham I.",            "band":"12M","mode":"DATA","comment":"W"},
     
     {"entity":188,   "name":"Niue",                  "band":"30M","mode":"DATA","comment":"C"},
     
-    {"entity":315,   "name":"Sri Lanka",             "band":"30M","mode":"DATA","comment":"V"},
-    {"entity":315,   "name":"Sri Lanka",             "band":"17M","mode":"DATA","comment":"V"},
     {"entity":436,   "name":"Sri Lanka",             "band":"80M","mode":"DATA","comment":"V"},
     {"entity":436,   "name":"Libya",                 "band":"80M","mode":"DATA","comment":"V"},
     {"entity":211,   "name":"Sable I.",              "band":"2M", "mode":"DATA","comment":"V"},

@@ -4,6 +4,60 @@
       "continent": [
         "AS"
       ],
+      "countryCode": "xx",
+      "cq": [
+        3,
+        4,
+        5
+      ],
+      "deleted": false,
+      "entityCode": 515,
+      "flag": "🇺🇸",
+      "itu": [
+        6,
+        7,
+        8
+      ],
+      "name": "Christmas I.",
+      "notes": "",
+      "outgoingQslService": false,
+      "prefix": "W8S",
+      "prefixRegex": "^WK9XY$",
+      "thirdPartyTraffic": true,
+      "validEnd": "",
+      "validStart": ""
+    },
+    {
+      "continent": [
+        "OC"
+      ],
+      "countryCode": "US",
+      "cq": [
+        3,
+        4,
+        5
+      ],
+      "deleted": false,
+      "entityCode": 247,
+      "flag": "🇺🇸",
+      "itu": [
+        6,
+        7,
+        8
+      ],
+      "name": "Spratly I.",
+      "notes": "",
+      "outgoingQslService": false,
+      "prefix": "DX0NE",
+      "prefixRegex": "^DX0NE$",
+      "thirdPartyTraffic": true,
+      "validEnd": "",
+      "validStart": ""
+    },
+    {
+      "continent": [
+        "AS"
+      ],
       "countryCode": "US",
       "cq": [
         3,
