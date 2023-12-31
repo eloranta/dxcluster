@@ -1,12 +1,36 @@
 {
   "worked":
   [
-    {"entity":185,   "name":"Solomon I.",            "band":"15M","mode":"DATA","comment":"W"},
+    {"entity":11,    "name":"Andaman&Nikobar I.",    "band":"40M","mode":"DATA","comment":"W"},
+    {"entity":11,    "name":"Andaman&Nikobar I.",    "band":"30M","mode":"DATA","comment":"W"},
+    {"entity":48,    "name":"E. Kiribati",           "band":"20M","mode":"DATA","comment":"W"},
+
+    {"entity":38,    "name":"Cocos (Keeling) I.",    "band":"17M","mode":"DATA","comment":"W"},
+    {"entity":38,    "name":"Cocos (Keeling) I.",    "band":"15M","mode":"DATA","comment":"W"},
+    {"entity":458,   "name":"Sierra Leone",          "band":"10M","mode":"DATA","comment":"W"},
     {"entity":273,   "name":"Trindade I.",           "band":"12M","mode":"DATA","comment":"W"},
     {"entity":35,    "name":"Christmas I.",          "band":"15M","mode":"DATA","comment":"W"},
+    {"entity":185,   "name":"Solomon I.",            "band":"30M","mode":"DATA","comment":"W"},
+    {"entity":185,   "name":"Solomon I.",            "band":"15M","mode":"DATA","comment":"W"},
+    {"entity":143,   "name":"Laos",                  "band":"17M","mode":"DATA","comment":"W"},
+    {"entity":143,   "name":"Laos",                  "band":"15M","mode":"DATA","comment":"W"},
+    {"entity":492,   "name":"Yemen",                 "band":"40M","mode":"DATA","comment":"W"},
+    {"entity":492,   "name":"Yemen",                 "band":"30M","mode":"DATA","comment":"W"},
+    {"entity":492,   "name":"Yemen",                 "band":"17M","mode":"DATA","comment":"W"},
+    {"entity":492,   "name":"Yemen",                 "band":"15M","mode":"DATA","comment":"W"},
+    {"entity":492,   "name":"Yemen",                 "band":"12M","mode":"DATA","comment":"W"},
+    {"entity":492,   "name":"Yemen",                 "band":"10M","mode":"DATA","comment":"W"},
+
     {"entity":34,    "name":"Chatham I.",            "band":"30M","mode":"DATA","comment":"W"},
     {"entity":34,    "name":"Chatham I.",            "band":"17M","mode":"DATA","comment":"W"},
     {"entity":34,    "name":"Chatham I.",            "band":"12M","mode":"DATA","comment":"W"},
+
+    {"entity":105,   "name":"Guantanamo",            "band":"40M","mode":"DATA","comment":"C"},
+    {"entity":190,   "name":"Samoa",                 "band":"40M","mode":"DATA","comment":"C"},
+    {"entity":262,   "name":"Tajikistan",            "band":"40M","mode":"DATA","comment":"C"},
+    {"entity":456,   "name":"Senegal",               "band":"20M","mode":"DATA","comment":"C"},
+    {"entity":456,   "name":"Senegal",               "band":"15M","mode":"DATA","comment":"C"},
+    {"entity":188,   "name":"Niue",                  "band":"17M","mode":"DATA","comment":"C"},
 
     {"entity":492,   "name":"Yemen",                 "band":"30M","mode":"DATA","comment":"W"},
     {"entity":492,   "name":"Yemen",                 "band":"15M","mode":"DATA","comment":"W"},
@@ -71,19 +95,19 @@
     {"entity":158,   "name":"Vanuatu",               "band":"12M","mode":"DATA","comment":"W"},
     {"entity":158,   "name":"Vanuatu",               "band":"10M","mode":"DATA","comment":"W"},
     {"entity":522,   "name":"Kosovo",                "band":"10M","mode":"DATA","comment":"W"},
-    {"entity":274,   "name":"Tristan da Cunha",      "band":"40M","mode":"DATA","comment":"W"},
-    {"entity":274,   "name":"Tristan da Cunha",      "band":"30M","mode":"DATA","comment":"W"},
-    {"entity":274,   "name":"Tristan da Cunha",      "band":"20M","mode":"DATA","comment":"W"},
-    {"entity":274,   "name":"Tristan da Cunha",      "band":"17M","mode":"DATA","comment":"W"},
-    {"entity":274,   "name":"Tristan da Cunha",      "band":"15M","mode":"DATA","comment":"W"},
-    {"entity":274,   "name":"Tristan da Cunha",      "band":"12M","mode":"DATA","comment":"W"},
-    {"entity":274,   "name":"Tristan da Cunha",      "band":"10M","mode":"DATA","comment":"W"},
     
-    {"entity":188,   "name":"Niue",                  "band":"30M","mode":"DATA","comment":"C"},
+    {"entity":522,   "name":"Burkina Faso",          "band":"10M","mode":"DATA","comment":"C"},
+    {"entity":53,    "name":"Ethiopia",              "band":"10M","mode":"DATA","comment":"C"},
+    {"entity":143,   "name":"Laos",                  "band":"17M","mode":"DATA","comment":"C"},
+    {"entity":274,   "name":"Tristan da Cunha",      "band":"40M","mode":"DATA","comment":"C"},
+    {"entity":274,   "name":"Tristan da Cunha",      "band":"30M","mode":"DATA","comment":"C"},
+    {"entity":274,   "name":"Tristan da Cunha",      "band":"20M","mode":"DATA","comment":"C"},
+    {"entity":274,   "name":"Tristan da Cunha",      "band":"17M","mode":"DATA","comment":"C"},
+    {"entity":274,   "name":"Tristan da Cunha",      "band":"15M","mode":"DATA","comment":"C"},
+    {"entity":274,   "name":"Tristan da Cunha",      "band":"12M","mode":"DATA","comment":"C"},
+    {"entity":274,   "name":"Tristan da Cunha",      "band":"10M","mode":"DATA","comment":"C"},
     
     {"entity":436,   "name":"Sri Lanka",             "band":"80M","mode":"DATA","comment":"V"},
-    {"entity":436,   "name":"Libya",                 "band":"80M","mode":"DATA","comment":"V"},
-    {"entity":211,   "name":"Sable I.",              "band":"2M", "mode":"DATA","comment":"V"},
     {"entity":41,    "name":"Crozet",                "band":"17M","mode":"DATA","comment":"V"}
   ]
 }
