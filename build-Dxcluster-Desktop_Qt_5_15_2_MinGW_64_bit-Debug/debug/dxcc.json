@@ -2,6 +2,29 @@
   "dxcc": [
     {
       "continent": [
+        "NA"
+      ],
+      "countryCode": "TX",
+      "cq": [
+        7
+      ],
+      "deleted": false,
+      "entityCode": 36,
+      "flag": "🇺🇸",
+      "itu": [
+        10
+      ],
+      "name": "Clipperton I.",
+      "notes": "",
+      "outgoingQslService": false,
+      "prefix": "TX",
+      "prefixRegex": "^TX5S$",
+      "thirdPartyTraffic": false,
+      "validEnd": "",
+      "validStart": ""
+    },
+    {
+      "continent": [
         "AS"
       ],
       "countryCode": "xx",
