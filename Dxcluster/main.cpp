@@ -315,7 +315,7 @@ void Task::ReadDxccJson()
     QJsonDocument doc = QJsonDocument::fromJson(text.toUtf8());
     if (doc.isNull())
     {
-        qDebug() << "Error in parsing worked.json";
+        qDebug() << "Error in parsing dxcc.json";
         return;
     }
 
@@ -481,7 +481,7 @@ void Task::ReadWorkedJson()
     file.open(QIODevice::ReadOnly | QIODevice::Text);
     QString text = file.readAll();
     file.close();
-    // qDebug() << text;
+    //qDebug() << text;
 
     QJsonDocument doc = QJsonDocument::fromJson(text.toUtf8());
     if (doc.isNull())

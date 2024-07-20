@@ -33,7 +33,7 @@ Thumbs.db
 *.res
 *.rc
 /.qmake.cache
-/.qmake.stash
+/qmake.stash
 
 moc_*
 *.sqlite
