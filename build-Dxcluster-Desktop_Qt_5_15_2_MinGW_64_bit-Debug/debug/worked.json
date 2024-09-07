@@ -1,6 +1,8 @@
 {
   "worked":
   [
+    {"entity":9,     "name":"American Samoa",        "band":"15M","mode":"DATA","comment":"W"},
+    {"entity":452,   "name":"Zimbabwe",              "band":"12M","mode":"DATA","comment":"C"},
     {"entity":13,    "name":"Antarctica",            "band":"10M","mode":"DATA","comment":"C"},
     {"entity":190,   "name":"Samoa",                 "band":"12M","mode":"DATA","comment":"C"},
     {"entity":434,   "name":"Liberia",               "band":"30M","mode":"DATA","comment":"C"},
