@@ -2233,6 +2233,29 @@
                 30
             ],
             "deleted": false,
+            "entityCode": 13,
+            "flag": "🇦🇺",
+            "itu": [
+                60
+            ],
+            "name": "Antarctica",
+            "notes": "",
+            "outgoingQslService": true,
+            "prefix": "VK0",
+            "prefixRegex": "^VK0DS$",
+            "thirdPartyTraffic": true,
+            "validEnd": "",
+            "validStart": ""
+        },
+        {
+            "continent": [
+                "OC"
+            ],
+            "countryCode": "AU",
+            "cq": [
+                30
+            ],
+            "deleted": false,
             "entityCode": 153,
             "flag": "🇦🇺",
             "itu": [

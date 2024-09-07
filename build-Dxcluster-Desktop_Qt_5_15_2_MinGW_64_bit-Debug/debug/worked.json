@@ -1,6 +1,7 @@
 {
   "worked":
   [
+    {"entity":13,    "name":"Antarctica",            "band":"10M","mode":"DATA","comment":"C"},
     {"entity":190,   "name":"Samoa",                 "band":"12M","mode":"DATA","comment":"C"},
     {"entity":434,   "name":"Liberia",               "band":"30M","mode":"DATA","comment":"C"},
     {"entity":277,   "name":"S. Pierre et Miquelon", "band":"12M","mode":"DATA","comment":"W"},
@@ -47,6 +48,7 @@
     {"entity":35,    "name":"Christmas I.",          "band":"15M","mode":"DATA","comment":"W"},
     {"entity":185,   "name":"Solomon I.",            "band":"30M","mode":"DATA","comment":"W"},
     {"entity":185,   "name":"Solomon I.",            "band":"15M","mode":"DATA","comment":"W"},
+    {"entity":143,   "name":"Laos",                  "band":"12M","mode":"DATA","comment":"C"},
     {"entity":143,   "name":"Laos",                  "band":"17M","mode":"DATA","comment":"C"},
     {"entity":143,   "name":"Laos",                  "band":"15M","mode":"DATA","comment":"W"},
     {"entity":492,   "name":"Yemen",                 "band":"40M","mode":"DATA","comment":"W"},
