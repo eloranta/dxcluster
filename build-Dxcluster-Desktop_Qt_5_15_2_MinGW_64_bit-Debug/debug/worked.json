@@ -1,6 +1,15 @@
 {
   "worked":
   [
+    {"entity":78,    "name":"Haiti",                 "band":"15M","mode":"DATA","comment":"C"},
+    {"entity":172,   "name":"Pitcairn I.",           "band":"30M","mode":"DATA","comment":"C"},
+    {"entity":372,   "name":"Pakistan",              "band":"12M","mode":"DATA","comment":"C"},
+    {"entity":452,   "name":"Zimbabwe",              "band":"10M","mode":"DATA","comment":"C"},
+    {"entity":9,     "name":"American Samoa",        "band":"20M","mode":"DATA","comment":"W"},
+    {"entity":478,   "name":"Egypt",                 "band":"17M","mode":"DATA","comment":"W"},
+    {"entity":249,   "name":"Saint Kitts and Nevis", "band":"30M","mode":"DATA","comment":"C"},
+    {"entity":172,   "name":"Pitcairn I.",           "band":"17M","mode":"DATA","comment":"C"},
+    {"entity":172,   "name":"Pitcairn I.",           "band":"20M","mode":"DATA","comment":"C"},
     {"entity":9,     "name":"American Samoa",        "band":"15M","mode":"DATA","comment":"W"},
     {"entity":452,   "name":"Zimbabwe",              "band":"12M","mode":"DATA","comment":"C"},
     {"entity":13,    "name":"Antarctica",            "band":"10M","mode":"DATA","comment":"C"},
