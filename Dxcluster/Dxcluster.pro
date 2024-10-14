@@ -11,10 +11,12 @@ CONFIG += c++11
 SOURCES += \
     main.cpp \
     mainwindow.cpp \
+    mytableview.cpp \
     qsomodel.cpp
 
 HEADERS += \
     mainwindow.h \
+    mytableview.h \
     qsomodel.h
 
 FORMS += \
