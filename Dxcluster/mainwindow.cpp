@@ -58,7 +58,7 @@ MainWindow::MainWindow(QWidget *parent)
     connect(ui->checkBox6, SIGNAL(stateChanged(int)), this, SLOT(bandChecked(int)));
     connect(ui->checkBox2, SIGNAL(stateChanged(int)), this, SLOT(bandChecked(int)));
 
-    connect(ui->clearButton, SIGNAL(clicked()), this, SLOT(clearClicked()));
+    connect(ui->markWorkedButton, SIGNAL(clicked()), this, SLOT(markWorkedClicked()));
 }
 
 MainWindow::~MainWindow()
@@ -141,8 +141,7 @@ void MainWindow::UpdateFilter()
 }
 
 
-void MainWindow::clearClicked()
+void MainWindow::markWorkedClicked()
 {
-    qsoModel.clear();
-    qsoModel.select();
+    qDebug() << "markWorkedClicked";
 }

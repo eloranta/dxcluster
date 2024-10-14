@@ -28,6 +28,6 @@ private slots:
     void modeChecked(int state);
     void bandChecked(int);
     void UpdateFilter();
-    void clearClicked();
+    void markWorkedClicked();
 };
 #endif

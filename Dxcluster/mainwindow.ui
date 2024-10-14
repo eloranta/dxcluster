@@ -248,9 +248,9 @@
      </widget>
     </item>
     <item row="3" column="1">
-     <widget class="QPushButton" name="clearButton">
+     <widget class="QPushButton" name="markWorkedButton">
       <property name="text">
-       <string>Clear</string>
+       <string>Mark Worked</string>
       </property>
      </widget>
     </item>
