@@ -1,0 +1,35 @@
+{
+  "worked":
+  [
+    {"entity":401,    "name":"Angola",                    "band":"10M","mode":"DATA","comment":"W"},
+    {"entity":450,    "name":"Nigeria",                   "band":"40M","mode":"DATA","comment":"W"},
+    {"entity":450,    "name":"Nigeria",                   "band":"15M","mode":"DATA","comment":"W"},
+    {"entity":450,    "name":"Nigeria",                   "band":"12M","mode":"DATA","comment":"W"},
+    {"entity":450,    "name":"Nigeria",                   "band":"10M","mode":"DATA","comment":"W"},
+    {"entity":168,    "name":"Marshall I.",               "band":"40M","mode":"DATA","comment":"W"},
+    {"entity":168,    "name":"Marshall I.",               "band":"30M","mode":"DATA","comment":"W"},
+    {"entity":168,    "name":"Marshall I.",               "band":"20M","mode":"DATA","comment":"W"},
+    {"entity":168,    "name":"Marshall I.",               "band":"17M","mode":"DATA","comment":"W"},
+    {"entity":168,    "name":"Marshall I.",               "band":"15M","mode":"DATA","comment":"W"},
+    
+    {"entity":305,    "name":"Bangladesh",                "band":"80M","mode":"DATA","comment":"C"},
+    {"entity":305,    "name":"Bangladesh",                "band":"40M","mode":"DATA","comment":"C"},
+    {"entity":47,     "name":"Easter I.",                 "band":"40M","mode":"DATA","comment":"C"},
+    {"entity":305,    "name":"Bangladesh",                "band":"80M","mode":"DATA","comment":"C"},
+    {"entity":47,     "name":"Easter I.",                 "band":"30M","mode":"DATA","comment":"C"},
+    {"entity":305,    "name":"Bangladesh",                "band":"20M","mode":"DATA","comment":"C"},
+    {"entity":489,    "name":"Conway Reef",               "band":"20M","mode":"DATA","comment":"C"},
+    {"entity":47,     "name":"Easter I.",                 "band":"17M","mode":"DATA","comment":"C"},
+    {"entity":65,     "name":"British Virgin I.",         "band":"17M","mode":"DATA","comment":"C"},
+    {"entity":22,     "name":"Palau",                     "band":"17M","mode":"DATA","comment":"C"},
+    {"entity":47,     "name":"Easter I.",                 "band":"15M","mode":"DATA","comment":"C"},
+    {"entity":65,     "name":"British Virgin I.",         "band":"12M","mode":"DATA","comment":"C"},
+    {"entity":489,    "name":"Conway Reef",               "band":"12M","mode":"DATA","comment":"C"},
+    {"entity":47,     "name":"Easter I.",                 "band":"12M","mode":"DATA","comment":"C"},
+    {"entity":176,    "name":"Fiji I.",                   "band":"12M","mode":"DATA","comment":"C"},
+    {"entity":460,    "name":"Rotuma",                    "band":"12M","mode":"DATA","comment":"C"},
+    {"entity":470,    "name":"Tanzania",                  "band":"12M","mode":"DATA","comment":"C"},
+    {"entity":65,     "name":"British Virgin I.",         "band":"10M","mode":"DATA","comment":"C"},
+    {"entity":402,    "name":"Botswana",                  "band":"10M","mode":"DATA","comment":"C"}
+]
+}

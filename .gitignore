@@ -33,7 +33,8 @@ Thumbs.db
 *.res
 *.rc
 /.qmake.cache
-/qmake.stash
+*.qmake.stash
+Dxcluster/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/.qtc_clangd/
 
 moc_*
 *.sqlite
